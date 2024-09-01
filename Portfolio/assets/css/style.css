@@ -482,6 +482,9 @@ h3 {
 .form-control textarea {
   color: #fff;
 }
+.about-info h3 {
+  color: #000;
+}
 .input-field {
   width: 50%;
   height: 55px;
